@@ -14,7 +14,7 @@ options=(
 source=(
   'asla-ucm-conf-xiaomi-nabu.tgz'
 )
-sha512sums=(
+sha256sums=(
   'dbdd96699332185c6bcbd492ec7e907820edcd10e748feca2009f2776b70855b'
 )
 depends=(
